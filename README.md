@@ -28,9 +28,7 @@
  </li>
 
 </ol>
-h2 {
-  color: green;
-}
+
 # Output Screenshots: 
 
 <h2 style="color:#3333ff;">Home page:</h2>
