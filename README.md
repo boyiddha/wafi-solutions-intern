@@ -30,7 +30,7 @@
 </ol>
 
 # Output Screenshots: 
-### Home page:
+<h2 style="color:#3333ff;">Home page:</h2>
 ![home](https://github.com/user-attachments/assets/1f4dbd1e-aadb-4ede-bf66-960099eab983)
 
 <hr style="  border: 5px solid green;border-radius: 3px;">
