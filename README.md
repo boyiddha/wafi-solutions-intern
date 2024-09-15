@@ -7,7 +7,7 @@
 </ul>
 
 ## Functions:
-### Home Page:
+<h2 style="color:#3333ff;">Home Page:</h2>
 <ol>
   <li>Home page shows a table of Employees</li>
   <li>Actions Column has edit & delete options</li>
