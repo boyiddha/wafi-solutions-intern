@@ -32,16 +32,19 @@
 # Output Screenshots: 
 ### Home page:
 ![home](https://github.com/user-attachments/assets/1f4dbd1e-aadb-4ede-bf66-960099eab983)
+
 <hr style="  border: 5px solid green;border-radius: 3px;">
 
 ### Add Employee page:
 ![add](https://github.com/user-attachments/assets/b029b875-50ba-4fe9-8a28-9625f76edebf)
 
 <hr style="  border: 5px solid green;border-radius: 3px;">
+
 ### Edit Action
 ![edit](https://github.com/user-attachments/assets/d3cc3387-1b29-490e-bc5d-7d689eb7a2c6)
 
 <hr style="  border: 5px solid green;border-radius: 3px;">
+
 ### Delete Action
 ![delete](https://github.com/user-attachments/assets/58ab9ec1-4387-4e71-8268-869e215b5d44)
 
