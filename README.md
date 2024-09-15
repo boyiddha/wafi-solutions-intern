@@ -7,7 +7,7 @@
 </ul>
 
 ## Functions:
-<h2 style="color:#3333ff;">Home Page:</h2>
+### Home Page:
 <ol>
   <li>Home page shows a table of Employees</li>
   <li>Actions Column has edit & delete options</li>
@@ -28,12 +28,14 @@
  </li>
 
 </ol>
-
+h2 {
+  color: green;
+}
 # Output Screenshots: 
 <h2 style="color:#3333ff;">Home page:</h2>
 ![home](https://github.com/user-attachments/assets/1f4dbd1e-aadb-4ede-bf66-960099eab983)
 
-<hr style="  border: 5px solid green;border-radius: 3px;">
+<hr style="border: 5px solid green;border-radius: 3px;">
 
 ### Add Employee page:
 ![add](https://github.com/user-attachments/assets/b029b875-50ba-4fe9-8a28-9625f76edebf)
