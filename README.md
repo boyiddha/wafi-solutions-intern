@@ -6,7 +6,7 @@
   <li>Create Edit Employee page</li>
 </ul>
 
-## Functions:
+## Features:
 ### Home Page:
 <ol>
   <li>Home page shows a table of Employees</li>
